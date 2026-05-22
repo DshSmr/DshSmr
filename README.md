@@ -18,9 +18,9 @@ Focused on real workflows, clean UI, and systems designed for everyday use.
 <h2>🧩 Featured Projects</h2>
 
 <ul>
-  <li>RusTrans — subtitle generation and translation desktop tool</li>
-  <li>Life Management System — productivity and personal management platform</li>
-  <li>Streaming AI Chat System — chat workflows with persistent conversations</li>
+  <li>RusTrans - subtitle generation and translation desktop tool</li>
+  <li>Life Management System - productivity and personal management platform</li>
+  <li>Streaming AI Chat System - chat workflows with persistent conversations</li>
 </ul>
 
 <h2>🌐 Portfolio</h2>
